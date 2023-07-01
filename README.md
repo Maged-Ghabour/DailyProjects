@@ -1,7 +1,7 @@
 # DailyProjects
 
 
-|--- |----------------|-----------|
-| #  | Project Name   | Demo Link |  
+
+| one | Project Name   | Demo Link |  
 
 
