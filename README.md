@@ -6,6 +6,7 @@
 | 2 |  30-06-2023   | Calculate Age        |[Calculate Age](https://maged-ghabour.github.io/calc_age/)     | 
 | 3 |  01-07-2023   | Generate Quotes      |[Generate Quotes](https://maged-ghabour.github.io/generate_quotes/)|
 | 4 |  02-07-2023   | Weather App          |[Weather App](https://maged-ghabour.github.io/weather-app/)|
+| 4 |  03-07-2023   | Movie Search App          |[Movie Search App]()|
 
 
 
