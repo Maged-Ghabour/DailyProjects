@@ -7,7 +7,7 @@
 | 3 |  01-07-2023   | Generate Quotes      |[Generate Quotes](https://maged-ghabour.github.io/generate_quotes/)|
 | 4 |  02-07-2023   | Weather App          |[Weather App](https://maged-ghabour.github.io/weather-app/)|
 | 5 |  03-07-2023   | Movie Search App          |[Movie Search App]()|
-| 6 |  07-07-2023   | Upload Image          |[upload image](https://maged-ghabour.github.io/uploadImage/)|
+| 6 |  07-07-2023   | Upload Image          |[Upload Image](https://maged-ghabour.github.io/uploadImage/)|
 
 
 
