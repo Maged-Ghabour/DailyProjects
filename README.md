@@ -12,7 +12,7 @@
 | 8 |               | Tarkeeb                          |[Tarkeeb](https://maged-ghabour.github.io/tarkeeb/)
 | 9|                | Online Shopping Card(Vue)        |[Shopping Card Vue](https://maged-ghabour.github.io/OnlineShoppingCart/)
 | 9 |  21-10-2023   | Animated content card            |[Animated Card](https://maged-ghabour.github.io/animated-content-card/)|
-|   |               | Wafra                            |[https://maged-ghabour.github.io/wafra/](wafra) |
+|   |               | Wafra                            |[Wafra]([wafra](https://maged-ghabour.github.io/wafra/)https://maged-ghabour.github.io/wafra/) |
 
 
 
